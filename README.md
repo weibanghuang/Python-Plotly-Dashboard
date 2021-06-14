@@ -3,6 +3,6 @@
 
 CSV data are not provided. 
 
-Link to project: 
+Link to project: (takes few seconds to load) 
 
 https://weibang-project.herokuapp.com/
